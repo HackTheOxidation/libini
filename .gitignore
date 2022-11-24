@@ -1,0 +1,6 @@
+.sconsign.dblite
+*.so
+src/*.so
+
+#Code workspace
+*.code-workspace
